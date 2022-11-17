@@ -53,10 +53,10 @@ const BLOG = {
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'jiafuzhang97@outlook.com',
-  CONTACT_WEIBO: '',
-  CONTACT_TWITTER: '',
-  CONTACT_GITHUB: '',
-  CONTACT_TELEGRAM: '',
+  CONTACT_WEIBO: 'jiafuzhang97@outlook.com',
+  CONTACT_TWITTER: 'jiafuzhang97@outlook.com',
+  CONTACT_GITHUB: 'jiafuzhang97@outlook.com',
+  CONTACT_TELEGRAM: 'jiafuzhang97@outlook.com',
 
   // 鼠标点击烟花特效
   FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || false, // 鼠标点击烟花特效
